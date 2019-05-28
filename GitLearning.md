@@ -214,7 +214,7 @@ https://用户名.github.io
 
 **测试**
 
-![test](test.png) 
+![test](images/test.png) 
 
 > 注意：`github pages`只支持静态网页，仓库里面只能是`.html`文件
 
