@@ -26,7 +26,7 @@
 ## 实战操作
 这里不做解释，实践出现问题建议返回第五集
 
-![实战操作](r.png)
+![实战操作](images/r.png)
 
 ## 如何为开源项目做出贡献
 **新建issue**
@@ -48,7 +48,7 @@
 
 **安装**：注意这里选择第一个；其余傻瓜式安装即可
 
-![install](install.png)
+![install](images/install.png)
 
 **检验是否安装成功**：右击鼠标显示`Git GUI Here`和`Git Bash Here`
 
@@ -126,7 +126,7 @@ git config –-global user.email '这里填写自己的用户名邮箱'
 ## Git远程仓库
 **使用目的**：备份、实现代码共享集中化管理
 
-![git远程仓库](git.png)
+![git远程仓库](images/git.png)
 
 如何将本地仓库同步到远程仓库中：
 1.	将远程仓库（github对应的项目）复制到本地：
@@ -199,7 +199,7 @@ To https://github.com/yezhaodan/-Git.git
 
 > 如果`git push`出现`The requested URL returned error：403 Forbidden while accessing`问题如何解决：
 
-![403](403forbidden.png)
+![403](images/403forbidden.png)
 
 ## Github Page搭建网站
 ### 个人网站
